@@ -1,0 +1,16 @@
+{
+    "client": "Thunder Client",
+    "environmentName": "marketplaceShoes",
+    "dateExported": "2023-12-01T19:42:51.223Z",
+    "version": "1.0",
+    "variables": [
+        {
+            "name": "baseURL",
+            "value": "http://localhost:27017"
+        },
+        {
+            "name": "token",
+            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1NGQ2MjY4OGRiOThhNjc2MzkxMjIwOCIsImlhdCI6MTY5OTU3MjM4MCwiZXhwIjoxNjk5NjU4NzgwfQ.OXVyCa0VbVmVcbBEdJs8MxoQMkOzL0yUGzlUqtVZZsI"
+        }
+    ]
+}
